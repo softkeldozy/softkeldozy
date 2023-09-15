@@ -70,7 +70,7 @@
   <summary>:zap: GitHub Stats</summary>
 
  ---
-<img align="left" alt="softkeldozy's Github Stats" src="https://github-readme-stats-softkeldozy.vercel.app//api?username=softkeldozy&show_icons=true&hide_border=true" />
+<img align="left" alt="softkeldozy's Github Stats" src="https://github-readme-stats-softkeldozy.vercel.app/api?username=softkeldozy&show_icons=true&hide_border=true" />
 
 </details>
 
