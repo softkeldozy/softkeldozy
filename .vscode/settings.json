@@ -1,3 +1,10 @@
 {
-  "editor.acceptSuggestionOnEnter": "on"
+  "editor.acceptSuggestionOnEnter": "on",
+  "workbench.colorCustomizations": {
+    "editor.foreground": "#e5e1f1",
+    "editorBracketMatch.background": "#ff0000",
+    "activityBar.background": "#4E1A37",
+    "titleBar.activeBackground": "#6D254D",
+    "titleBar.activeForeground": "#FDF8FB"
+  }
 }
