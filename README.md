@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React,Typescript,**
 
-- 👯 I’m looking to collaborate on **Other Developers including you**
+- 👯 I’m looking to collaborate with **Other Developers including you**
 
 - 🤝 I’m looking for help with **Anything tech you can teach me**
 
